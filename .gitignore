@@ -1,3 +1,4 @@
 .vagrant
 Berksfile.lock
 wwwroot
+cf-installer/cfusion.war
